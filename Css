@@ -3,7 +3,7 @@
 
 :root {
     --laranja-claro: #3c6ed9;
-    --alto-contraste-fundo: #b22e2e;
+    --alto-contraste-fundo: #0b022c;
     --alto-contraste-texto: #ffff;
     --alto-contraste-link: #a3bee4;
 }
@@ -207,4 +207,10 @@ h2 {
   z-index: 1;         /* fica atrás de menus/botões */
 }
     
+figcaption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 8px;
+}
+
 }
