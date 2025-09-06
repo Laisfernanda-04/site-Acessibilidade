@@ -1,4 +1,4 @@
-# Site acessível sobre Stranger Things
+# Site acessível sobre o genêro Bossa Nova
 
 ## Sobre
 Refatoração de um site sobre o genêro Bossa Nova, implementando recursos de acessibilidade no HTML, CSS e JS, com animações e botões interativos.
