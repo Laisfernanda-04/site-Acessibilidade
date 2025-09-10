@@ -1,7 +1,7 @@
-# Site acessível sobre o genêro Bossa Nova
+# Site acessível sobre o gênero Bossa Nova
 
 ## Sobre
-Refatoração de um site sobre o genêro Bossa Nova, implementando recursos de acessibilidade no HTML, CSS e JS, com animações e botões interativos.
+Refatoração de um site sobre o gênero Bossa Nova, implementando recursos de acessibilidade no HTML, CSS e JS, com animações e botões interativos.
 
 ## Recursos de acessibilidade
 Atributos ARIA para navegação assistiva
